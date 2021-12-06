@@ -1,9 +1,9 @@
 # VueCRUD
 VueCRUD Task By Mohamed Fathi
 
-#run app
--use sql attatched file to create database
--change connection string
+#to run the app
+#use sql attatched file to create database
+#change connection string
 
 -login for admin by
 email >> Admin@email.com & password >> Admin@123
